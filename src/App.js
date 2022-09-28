@@ -6,6 +6,7 @@ import {Todos} from "./MyComponents/Todos";
 import {Footer} from "./MyComponents/Footer";
 import {AddTodo} from "./MyComponents/AddTodo";
 import {About} from "./MyComponents/About";
+import Card from './MyComponents/card'
 import {
   BrowserRouter as Router,
   Routes,
